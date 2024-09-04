@@ -94,7 +94,7 @@ Revolutionizing Retail Shopping Experience
 
 **Must-Have Features:**
 
-- QR code scanning and virtual cart management.
+- Q/Bar code scanning and virtual cart management.
 - Secure payment integration with popular gateways (e.g., PayPal, Stripe).
 - Basic navigation system with route optimization for a few predefined mall layouts.
 - Simple recommendation engine for sponsored stores.
@@ -116,13 +116,13 @@ Revolutionizing Retail Shopping Experience
 
 **Key Assumptions:**
 
-- Shoppers are familiar with using QR codes and comfortable with mobile payments.
+- Shoppers are familiar with using QR/Bar codes and comfortable with mobile payments.
 - Malls will provide access to their floor plans for accurate navigation.
 - Sponsored stores are willing to participate and pay for in-app promotion.
 
 **Potential Risks:**
 
-- Potential for technical issues with QR code scanning in poor lighting or with damaged codes.
+- Potential for technical issues with QR/Bar code scanning in poor lighting or with damaged codes.
 - Delays in payment processing due to network connectivity issues.
 - Users may be overwhelmed or annoyed by too many recommendations, leading to disengagement.
 
@@ -133,7 +133,7 @@ Revolutionizing Retail Shopping Experience
 **Hackathon Milestones:**
 
 - ~ Hour 4: Finalize app UI/UX design and core feature definitions.
-- ~ Hour 20: Develop QR code scanning, cart management, and payment system.
+- ~ Hour 20: Develop QR/Bar code scanning, cart management, and payment system.
 - ~ Hour 30: Implement the navigation system and integrate basic recommendations.
 
 **Post-Hackathon Considerations:**
@@ -148,7 +148,7 @@ Revolutionizing Retail Shopping Experience
 
 **Team Alignment:**
 
-- All team members agree on focusing first on the QR code scanning and payment functionality, ensuring a smooth and reliable checkout process before expanding the app's features.
+- All team members agree on focusing first on the QR/Bar code scanning and payment functionality, ensuring a smooth and reliable checkout process before expanding the app's features.
 
 **Open Questions:**
 
